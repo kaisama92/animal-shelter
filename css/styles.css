@@ -1,0 +1,28 @@
+.centered-text {
+  text-align: center;
+}
+.center-columns {
+  text-align: center;
+  background-color: lightgreen;
+}
+h1 {
+  background-color: beige;
+  margin: 30px auto;
+  border: 5px solid black;
+}
+.intro {
+  font-size: 1.5rem;
+  text-align: center;
+}
+.column {
+  width: 25%;
+  height: 350px;
+  float: left;
+  background-color: lightgreen;
+}
+img {
+  width: 75%;
+}
+li {
+  text-align: left;
+}
